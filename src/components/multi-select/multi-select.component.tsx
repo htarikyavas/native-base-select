@@ -14,7 +14,7 @@ import {
   ScrollView,
   KeyboardAvoidingView,
 } from 'native-base';
-import type { Select } from 'src/interface/select.interface';
+import type { Select } from '../../interface/select.interface';
 
 const BTMultiSelect = ({
   label,
