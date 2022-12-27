@@ -1,5 +1,5 @@
 {
-  "name": "@blump-tech/native-base-select",
+  "name": "@htarikyavas/native-base-select",
   "version": "0.2.0",
   "description": "This module includes a customizable multi-select and a single select component for Native Base. It creates a list of items with the selected item in closed view.",
   "main": "lib\\commonjs\\index.js",
@@ -42,15 +42,20 @@
     "dropdown",
     "material"
   ],
-  "repository": "https://github.com/Blump-Tech-Pvt-Ltd/native-base-select",
-  "author": "Anurag Srivastava <srivastavaanurag79@gmail.com> (https://github.com/srivastavaanurag79)",
+  "repository": "https://github.com/htarikyavas/native-base-select",
+  "author": "Hasan Tarık YAVAŞ <htarikyavas@gmail.com> (https://github.com/htarikyavas)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Blump-Tech-Pvt-Ltd/native-base-select/issues"
+    "url": "https://github.com/htarikyavas/native-base-select/issues"
   },
-  "homepage": "https://github.com/Blump-Tech-Pvt-Ltd/native-base-select#readme",
+  "homepage": "https://github.com/htarikyavas/native-base-select#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
+  },
+  "resolutions": {
+    "@types/react": "17.0.2",
+    "@types/react-dom": "17.0.2",
+    "graphql": "^16.5.0"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
