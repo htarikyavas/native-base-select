@@ -4,7 +4,7 @@
   "description": "This module includes a customizable multi-select and a single select component for Native Base. It creates a list of items with the selected item in closed view.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
-  "types": "lib/typescript/src/ndex.d.ts",
+  "types": "lib/typescript/src/index.d.ts",
   "react-native": "src/index.tsx",
   "source": "src/index",
   "files": [
